@@ -1,9 +1,9 @@
 body{
-  background: black;
+  background: rgb(154, 9, 149);
 }
-h1, p{
+h1{
   color: Lime;
 }
-ul, a{
+p, ul, a{
   color: white;
 }
