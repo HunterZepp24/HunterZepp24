@@ -1,9 +1,12 @@
 body{
-  background: rgb(154, 9, 149);
+  background: black;
 }
 h1{
   color: Lime;
 }
 p, ul, a{
   color: white;
+}
+img{
+  width: 50%;
 }
