@@ -8,15 +8,18 @@ body{
   justify-content: center;
   align-content: center;
   height: 100vh;
-  width: 1000px;
 }
 h1{
   font-family: 'Chillax-Semibold';
-  color: Lime;
+  color: limegreen;
 }
-p, ul, a{
+p, ul{
   color: white;
+  width: 720px;
+}
+a{
+  color: limegreen;
 }
 img{
-  width: 1000px;
+  width: 720px;
 }
