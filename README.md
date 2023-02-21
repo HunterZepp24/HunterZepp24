@@ -1,16 +1,20 @@
-### Hi there 👋
+# DIY Landing Page
 
-<!--
-**HunterZepp24/HunterZepp24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://app.netlify.com/start/deploy?repository=https://github.com/ewuweblab/diy-landing-page-starter"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
 
-Here are some ideas to get you started:
+## What Is This? 
+My DIY Landing Page with these features. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* My content. My design.
+* Customizable, and persistent URL e.g. `YourCustomName.Netlify.app`
+* Portable. Take it to any web host. 
+* Future proof, and easy to maintain. You own the code via GitHub
+* Secure, and scalable to many CDNs worldwide via Netlify
+
+## Sources
+* [Chillax from Font Share](https://www.fontshare.com/fonts/chillax)
+
+## Why Does This Exist? 
+Many services offer a single-page-landing. These "web portals" have existed for decades before [Linktree](https://linktr.ee/), [About.Me](https://about.me), [Card](https://carrd.co/), etc.
+
+There are too many services to choose from. Each one has minor differences, and benefits with premium paid upgrades. 
