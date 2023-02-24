@@ -10,29 +10,32 @@ body{
   height: 100vh;
 }
 body nav{
-  width: 1080px;
+  background: #64ff00;
+  padding: 24px 48px;
 }
 body ul li strong{
   font-family: 'Chillax-Medium';
   font-size: 30px;
-  color: limegreen;
+  color: black;
 }
 body p{
   color: white;
-  width: 1080px;
-  font-size: 16px;
-  margin-top: 16px;
-}
-body a{
-  color: limegreen;
+  width: 720px;
+  font-size: 18px;
+  margin: 60px auto auto auto;
 }
 body img{
   width: 1080px;
 }
 [role="button"]{
-  background-color: limegreen;
+  background-color: black;
   color: white;
   text-decoration: none;
   border: 0;
   border-radius: 10px;
+  height: 42px;
+  width: 108px;
+  display: grid;
+  justify-content: center;
+  align-content: center;
 }
