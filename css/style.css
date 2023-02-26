@@ -7,29 +7,36 @@ body{
   display: grid;
   justify-content: center;
   align-content: center;
-  height: 100vh;
+  height: 143vh;
 }
 body nav{
-  background: #64ff00;
+  background: #098500;
   padding: 24px 48px;
+  width: 100%;
+  width: 100vw;
 }
 body ul li strong{
   font-family: 'Chillax-Medium';
   font-size: 30px;
-  color: black;
+  color: white;
 }
 body p{
   color: white;
   width: 720px;
   font-size: 18px;
-  margin: 60px auto auto auto;
+  margin: 60px auto;
 }
 body img{
-  width: 1080px;
+  height: 600px;
+  width: 100vw;
+  object-fit: cover;
+  object-position: 0px -280px;
+  display: block;
+  margin: auto;
 }
 [role="button"]{
-  background-color: black;
-  color: white;
+  background-color: white;
+  color: black;
   text-decoration: none;
   border: 0;
   border-radius: 10px;
@@ -39,3 +46,8 @@ body img{
   justify-content: center;
   align-content: center;
 }
+/*[role="button"]:hover{
+  background-color: black;
+  color: white;
+
+}*/
