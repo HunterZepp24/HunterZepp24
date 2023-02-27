@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <title>Hunter Zepp</title>
 
-  <!--favicons-->
+  <!--Favicons-->
   <link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png">
@@ -13,16 +13,20 @@
 
   <!--Pico CSS Framework-->
   <link rel="stylesheet" href="css/pico.min.css">
-  <!--styles-->
+  <!--Styles-->
   <link rel="stylesheet" href="/css/style.css">
-  <!--scripts-->
+  <!--GSAP-->
+  <script src="https://unpkg.co/gsap@3/dist/gsap.min.js" defer></script>
+  <!--GSAP ScrollTrigger-->
+  <script src="https://unpkg.com/gsap@3/dist/ScrollTrigger.min.js" defer></script>
+  <!--Scripts-->
   <script src="./js/script.js" defer></script>
 
 </head>
 
 <body>
   <main>
-    <nav>
+    <nav class="appear" id="start">
       <ul>
         <li><svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" width="175" height="75" viewBox="0 0 830 360">
             <defs>
@@ -65,9 +69,9 @@
       </ul>
     </nav>
 
-    <img src="/me.jpg" alt="Hunter Zepp">
+    <img src="/me.jpg" alt="Hunter Zepp" class="appear">
   
-    <p>I’ve always had a creative mind, ever since I was a little kid, and when I discovered design in high school, I was
+    <p class="appear">I’ve always had a creative mind, ever since I was a little kid, and when I discovered design in high school, I was
       hooked immediately and have been ever since. I love the idea of creating something that serves a purpose, and design
       gives me the opportunity to do just that. I’m someone who also has a wide range of interests. I love cars, video
       games, and pretty much all things 80s. I also love nerdy things like Star Wars, Harry Potter, Comics, and D&D.</p>
