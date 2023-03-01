@@ -7,7 +7,8 @@ body{
   display: grid;
   justify-content: center;
   align-content: center;
-  height: 100vh;
+  height: 130vh;
+  width: 100vw;
 }
 body nav{
   background: #098500;
@@ -24,13 +25,13 @@ body p{
   color: white;
   width: 720px;
   font-size: 18px;
-  margin: 60px auto;
+  margin: 120px auto 180px;
 }
 body img{
-  height: 600px;
+  height: 840px;
   width: 100vw;
   object-fit: cover;
-  object-position: 0px -280px;
+  object-position: 0px -400px;
   display: block;
   margin: auto;
 }
