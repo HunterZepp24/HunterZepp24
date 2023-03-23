@@ -6,8 +6,8 @@ body{
   margin: 0;
   display: grid;
   justify-content: center;
-  align-content: center;
-  height: 130vh;
+  align-content: start;
+  height: 180vh;
   width: 100vw;
 }
 body nav{
@@ -15,17 +15,23 @@ body nav{
   padding: 24px 48px;
   height: 20vh;
   width: 100vw;
+  margin: -11vh auto 0px;
+  display: grid;
+  justify-content: center;
+  align-content: center;
 }
-body ul li strong{
-  font-family: 'Chillax-Medium';
-  font-size: 30px;
-  color: white;
+body h1{
+  font-family: 'Chillax-SemiBold';  
+  font-size: 36px;
+  color: #64f000;
+  width: 720px;
+  margin: 60px auto 0px;
 }
 body p{
   color: white;
   width: 720px;
   font-size: 18px;
-  margin: 120px auto 180px;
+  margin: 60px auto 90px;
 }
 body img{
   height: 840px;
@@ -35,14 +41,23 @@ body img{
   display: block;
   margin: auto;
 }
+body ul{
+  display: grid;
+  justify-content: center;
+  align-content: center;
+}
+body ul li{
+  list-style: none;
+  margin: 10px 0;
+}
 [role="button"]{
   background-color: white;
   color: black;
   text-decoration: none;
   border: 0;
   border-radius: 10px;
-  height: 42px;
-  width: 108px;
+  height: 60px;
+  width: 480px;
   display: grid;
   justify-content: center;
   align-content: center;
