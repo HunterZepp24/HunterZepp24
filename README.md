@@ -1,5 +1,7 @@
 # Hunter Zepp
 
+![Terminator](https://media.giphy.com/media/13CfqebsPMctjO/giphy.gif)
+
 > I'll be back.
 
 ## Major
