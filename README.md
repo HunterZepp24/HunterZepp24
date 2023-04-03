@@ -20,4 +20,4 @@ I can change my voice to become a select few people...
 * [CodePen](https://codepen.io/hzepp)
 * [LinkedIn](https://www.linkedin.com/in/hunter-zepp-b09192226/)
 
-![Terminator Thumbs Up](![Terminator](https://media.giphy.com/media/13CfqebsPMctjO/giphy.gif))
+![Terminator Thumbs Up](https://media.giphy.com/media/gFwZfXIqD0eNW/giphy.gif)
