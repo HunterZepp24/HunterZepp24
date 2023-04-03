@@ -15,8 +15,5 @@ I can change my voice to become a select few people...
 
 ## My Links
 * [GitHub](https://github.com/HunterZepp24)
-* <a href="https://codepen.io/hzepp">CodePen</a>
+* [CodePen](https://codepen.io/hzepp)
 * [LinkedIn](https://www.linkedin.com/in/hunter-zepp-b09192226/)
-
-
-<!-- [CodePen](https://codepen.io/hzepp) -->
