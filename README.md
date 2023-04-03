@@ -1,6 +1,6 @@
 # Hunter Zepp
 
-<blockquote>I'll be back.</blockquote>
+> I'll be back.
 
 ## Major
 Visual Communication Design at Eastern
