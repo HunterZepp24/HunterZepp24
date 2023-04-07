@@ -10,20 +10,28 @@ Hi, I'm Hunter. I'm a Visual Communication Design major at Eastern Washington Un
 <!--I’m someone who also has a wide range of interests. I love cars, video games, and pretty much all things 80s. I also love nerdy things like Star Wars, Harry Potter, Comics, and Dungeons & Dragons.-->
 
 ## Skills
-* UX Design
-* Web Design
-* Graphic Design
-<!--<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="67" height="20" role="img" aria-label="UX Design"><title>UX Design</title><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="67" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#r)"><rect width="0" height="20" fill="#e05d44"/><rect x="0" width="67" height="20" fill="#e05d44"/><rect width="67" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text aria-hidden="true" x="335" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="570">UX Design</text><text x="335" y="140" transform="scale(.1)" fill="#fff" textLength="570">UX Design</text></g></svg>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="75" height="20" role="img" aria-label="Web Design"><title>Web Design</title><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="75" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#r)"><rect width="0" height="20" fill="#fe7d37"/><rect x="0" width="75" height="20" fill="#fe7d37"/><rect width="75" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text aria-hidden="true" x="375" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="650">Web Design</text><text x="375" y="140" transform="scale(.1)" fill="#fff" textLength="650">Web Design</text></g></svg>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="93" height="20" role="img" aria-label="Graphic Design"><title>Graphic Design</title><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="93" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#r)"><rect width="0" height="20" fill="#dfb317"/><rect x="0" width="93" height="20" fill="#dfb317"/><rect width="93" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text aria-hidden="true" x="465" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="830">Graphic Design</text><text x="465" y="140" transform="scale(.1)" fill="#fff" textLength="830">Graphic Design</text></g></svg>-->
+![UX Design](https://img.shields.io/badge/-UX%20Design-red)
+![Web Design](https://img.shields.io/badge/-Web%20Design-orange)
+![Graphic Design](https://img.shields.io/badge/-Graphic%20Design-yellow)
+![Game Design](https://img.shields.io/badge/-Game%20Design-brightgreen)
+![Product Design](https://img.shields.io/badge/-Product%20Design-blue)
+![Typography](https://img.shields.io/badge/-Typography-blueviolet)
 
+## Interests
+![Cars](https://img.shields.io/badge/-Cars-red)
+![Video Games](https://img.shields.io/badge/-Video%20Games-orange)
+![Retro and Vintage Things](https://img.shields.io/badge/-Retro%20and%20Vintage%20Things-yellow)
+![Star Wars](https://img.shields.io/badge/-Star%20Wars-green)
+![Harry Potter](https://img.shields.io/badge/-Harry%20Potter-brightgreen)
+![Comics](https://img.shields.io/badge/-Comics-blue)
+![D&D](https://img.shields.io/badge/-D&D-blueviolet)
 
 ## Superpower
 I can change my voice to become a select few people...
 
 ## Links
-* [GitHub](https://github.com/HunterZepp24)
-* [CodePen](https://codepen.io/hzepp)
-* [LinkedIn](https://www.linkedin.com/in/hunter-zepp-b09192226/)
+[![GitHub](https://img.shields.io/badge/GitHub-6e5494.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/HunterZepp24)
+[![CodePen](https://img.shields.io/badge/CodePen-248A44.svg?&style=for-the-badge&logo=CodePen&logoColor=white)](https://codepen.io/hzepp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hunter-zepp-b09192226/)
 
 ![Terminator Thumbs Up](https://media.giphy.com/media/gFwZfXIqD0eNW/giphy.gif)
