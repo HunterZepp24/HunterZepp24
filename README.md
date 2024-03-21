@@ -5,7 +5,7 @@
 > I'll be back.
 
 ## Bio
-Hi, I'm Hunter. I'm a Visual Communication Design major at Eastern Washington University who's also studying for a UX certificate. I’ve always had a creative mind and when I discovered design in high school, I was hooked immediately and have been ever since. I love the idea of creating something that serves a purpose, and design gives me the opportunity to do just that. 
+Hey there! I'm Hunter, a recent graduate from Eastern Washington University. In addition to earning my Bachelor's Degree in Visual Communication Design, I have also earned a User Experience Certificate. Ever since I discovered design in high school, I've been completely hooked. I’ve always had creative mind, and design became the perfect outlet to utilize it. What I love most is the ability to create something that has a real purpose. Design allows me to bring ideas to life and make a meaningful impact.
 
 <!--I’m someone who also has a wide range of interests. I love cars, video games, and pretty much all things 80s. I also love nerdy things like Star Wars, Harry Potter, Comics, and Dungeons & Dragons.-->
 
