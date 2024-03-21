@@ -26,9 +26,6 @@ Hi, I'm Hunter. I'm a Visual Communication Design major at Eastern Washington Un
 ![Comics](https://img.shields.io/badge/-Comics-blue)
 ![D&D](https://img.shields.io/badge/-D&D-blueviolet)
 
-## Superpower
-I can change my voice to become a select few people...
-
 ## Links
 [![GitHub](https://img.shields.io/badge/GitHub-6e5494.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/HunterZepp24)
 [![CodePen](https://img.shields.io/badge/CodePen-248A44.svg?&style=for-the-badge&logo=CodePen&logoColor=white)](https://codepen.io/hzepp)
